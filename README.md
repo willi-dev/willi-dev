@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-
-<a href="https://app.daily.dev/willidev"><img src="https://api.daily.dev/devcards/e566edc25f5c48ab9f15bf249e20f703.png?r=xyd" width="400" alt="willi-dev's Dev Card"/></a>
-
 <!-- 
 **willi-dev/willi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 
 <!-- Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
